@@ -1,35 +1,11 @@
 {
+  "pages": {},
   "app": {
-    "[project]/Downloads/mm_printing/app/_not-found/page": [
-      "static/media/c47649aa31f9e140-s.p.11uo_35nso9mn.woff2",
-      "static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2"
-    ],
-    "[project]/Downloads/mm_printing/app/about/page": [
-      "static/media/c47649aa31f9e140-s.p.11uo_35nso9mn.woff2",
-      "static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2"
-    ],
     "[project]/Downloads/mm_printing/app/contact/page": [
-      "static/media/c47649aa31f9e140-s.p.11uo_35nso9mn.woff2",
-      "static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2"
-    ],
-    "[project]/Downloads/mm_printing/app/gallery/page": [
-      "static/media/c47649aa31f9e140-s.p.11uo_35nso9mn.woff2",
-      "static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2"
-    ],
-    "[project]/Downloads/mm_printing/app/page": [
-      "static/media/c47649aa31f9e140-s.p.11uo_35nso9mn.woff2",
-      "static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2"
-    ],
-    "[project]/Downloads/mm_printing/app/services/page": [
-      "static/media/c47649aa31f9e140-s.p.11uo_35nso9mn.woff2",
-      "static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2"
-    ],
-    "[project]/Downloads/mm_printing/app/testimonials/page": [
       "static/media/c47649aa31f9e140-s.p.11uo_35nso9mn.woff2",
       "static/media/051742360c26797e-s.p.0f97p8c3305p~.woff2"
     ]
   },
   "appUsingSizeAdjust": true,
-  "pages": {},
   "pagesUsingSizeAdjust": false
 }

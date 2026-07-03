@@ -1,12 +1,3 @@
 {
-  "/_global-error/page": "app/_global-error/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/about/page": "app/about/page.js",
-  "/api/video/[...slug]/route": "app/api/video/[...slug]/route.js",
-  "/api/videos/[...slug]/route": "app/api/videos/[...slug]/route.js",
-  "/contact/page": "app/contact/page.js",
-  "/gallery/page": "app/gallery/page.js",
-  "/page": "app/page.js",
-  "/services/page": "app/services/page.js",
-  "/testimonials/page": "app/testimonials/page.js"
+  "/contact/page": "app/contact/page.js"
 }
