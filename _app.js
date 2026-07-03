@@ -1,13 +1,4 @@
-__turbopack_load_page_chunks__("/_app", [
-  "static/chunks/0y97_next_dist_compiled_1146bv.._.js",
-  "static/chunks/0y97_next_dist_shared_lib_0pvdw87._.js",
-  "static/chunks/0y97_next_dist_client_0pgt8_k._.js",
-  "static/chunks/0y97_next_dist_0ihvu3c._.js",
-  "static/chunks/0y97_next_app_125772z.js",
-  "static/chunks/[next]_entry_page-loader_ts_0y_27gp._.js",
-  "static/chunks/0y97_react-dom_0nl7zc1._.js",
-  "static/chunks/0y97_0njw1fm._.js",
-  "static/chunks/[root-of-the-server]__13d0rfs._.js",
-  "static/chunks/Downloads_mm_printing_pages__app_07xvfw~._.js",
-  "static/chunks/turbopack-Downloads_mm_printing_pages__app_0r0kf--._.js"
-])
+var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/pages/_app.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0h47bsd._.js")
+R.m("[project]/Downloads/mm_printing/node_modules/next/app.js [ssr] (ecmascript)")
+module.exports=R.m("[project]/Downloads/mm_printing/node_modules/next/app.js [ssr] (ecmascript)").exports
