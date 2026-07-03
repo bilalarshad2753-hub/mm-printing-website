@@ -1,0 +1,107 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Material Symbols Outlined';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: block;
+  src: url(https://fonts.gstatic.com/s/materialsymbolsoutlined/v228/kJEhBvYX7BRP6cYoEChESdd3yK8ycc4E-v0xT-FrO5s.woff2) format('woff2');
+}
+
+@keyframes flow-line {
+  0% {
+    stroke-dashoffset: 100;
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    opacity: 0.3;
+  }
+}
+
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-flow {
+  stroke-dasharray: 10;
+  animation: flow-line 3s linear infinite;
+}
+
+.glass-panel {
+  background: rgba(18, 20, 22, 0.7);
+  backdrop-filter: blur(12px);
+  border: 0.5px solid rgba(255, 255, 255, 0.1);
+}
+
+.glow-orange {
+  box-shadow: 0 0 20px rgba(242, 100, 25, 0.3);
+}
+
+.glow-orange-hover:hover {
+  box-shadow: 0 0 30px rgba(242, 100, 25, 0.6);
+  border-color: #f26419;
+}
+
+.text-gradient {
+  background: linear-gradient(to right, #f26419, #950c09);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.reveal-up {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.reveal-up.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.industrial-grid {
+  background-image: radial-gradient(circle, rgba(242, 100, 25, 0.05) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  display: inline-flex;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+}
+
+@theme {
+  --font-sans: var(--font-hanken-grotesk);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
+@layer base {
+  html {
+    font-family: var(--font-hanken-grotesk);
+  }
+
+  body {
+    background-color: #121416;
+    color: #e2e2e5;
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/video/[...slug]/route": "/api/video/[...slug]",
+  "/api/videos/[...slug]/route": "/api/videos/[...slug]",
+  "/contact/page": "/contact",
+  "/gallery/page": "/gallery",
+  "/page": "/",
+  "/services/page": "/services",
+  "/testimonials/page": "/testimonials"
+}
