@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[86114,["/_next/static/chunks/0q1cojsj7hquo.js","/_next/static/chunks/0_r~.r96xr_5s.js"],"ViewportBoundary"]
-3:I[86114,["/_next/static/chunks/0q1cojsj7hquo.js","/_next/static/chunks/0_r~.r96xr_5s.js"],"MetadataBoundary"]
+2:I[86114,["/_next/static/chunks/08aetlygcif-m.js","/_next/static/chunks/0_r~.r96xr_5s.js"],"ViewportBoundary"]
+3:I[86114,["/_next/static/chunks/08aetlygcif-m.js","/_next/static/chunks/0_r~.r96xr_5s.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#121416"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KINETIC CORE | MM Printing & Mobile"}],["$","meta","1",{"name":"description","content":"High-speed industrial printing solutions designed for technical mastery and maximum output. We bridge the gap between digital intent and physical reality."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wOb21EjTmuQdlVVWJDruL"}
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wOb21EjTmuQdlVVWJDruL"}
